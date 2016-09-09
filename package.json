@@ -1,0 +1,20 @@
+{
+  "name": "mean",
+  "version": "0.0.4",
+  "description": "Boozang",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express",
+    "AngularJS",
+    "Node.js"
+  ],
+  "author": "Wensheng Li and Mats Ljunggren - special mention of Amos Haviv for boilerplate code",
+  "license": "MIT",
+  "dependencies": {
+    "run-headless-chromium": "latest"
+  }
+}
